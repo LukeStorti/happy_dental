@@ -5,7 +5,7 @@ import arrow from "../assets/arrow.png";
 
 const HowItWorks = () => {
   return (
-    <section>
+    <section id="contact-us">
       <div className="flex flex-col justify-evenly items-start ss:gap-2 gap-10 my-8 mx-8 ss:mx-8">
         <div className="flex  flex-col font-poppins gap-8  select-none mt-[70px]">
           <h2 className="text-xl text-black">How It Works</h2>
